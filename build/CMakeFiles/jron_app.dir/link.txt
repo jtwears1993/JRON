@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/jron_app.dir/src/main.c.o -o bin/jron_app  libjron.a 

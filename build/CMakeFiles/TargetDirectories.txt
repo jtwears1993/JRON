@@ -1,0 +1,8 @@
+/home/jtwears/Documents/JRON/build/CMakeFiles/jron.dir
+/home/jtwears/Documents/JRON/build/CMakeFiles/jron_app.dir
+/home/jtwears/Documents/JRON/build/CMakeFiles/edit_cache.dir
+/home/jtwears/Documents/JRON/build/CMakeFiles/rebuild_cache.dir
+/home/jtwears/Documents/JRON/build/CMakeFiles/list_install_components.dir
+/home/jtwears/Documents/JRON/build/CMakeFiles/install.dir
+/home/jtwears/Documents/JRON/build/CMakeFiles/install/local.dir
+/home/jtwears/Documents/JRON/build/CMakeFiles/install/strip.dir

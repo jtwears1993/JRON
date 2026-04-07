@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjron.a CMakeFiles/jron.dir/src/message.c.o CMakeFiles/jron.dir/src/ring_buffer.c.o
+/usr/bin/ranlib libjron.a
